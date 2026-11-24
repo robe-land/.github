@@ -1,0 +1,23 @@
+{
+  "schema": 1,
+  "base": "main",
+  "feature_prefix": "feature/",
+  "merge_strategy": "merge",
+  "commit_gate": {
+    "commands": [
+      ["git", "diff", "--cached", "--check"]
+    ]
+  },
+  "readiness_gate": {
+    "commands": [
+      ["python3", "-m", "json.tool", ".github/lifecycle.json"],
+      ["git", "diff", "--check", "origin/main...HEAD"]
+    ]
+  },
+  "integration_gate": {
+    "commands": []
+  },
+  "required_ci": ["publication-verify"],
+  "required_review": false,
+  "special_authorization": []
+}
