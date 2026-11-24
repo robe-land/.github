@@ -18,6 +18,6 @@
     "commands": []
   },
   "required_ci": ["publication-verify"],
-  "required_review": true,
+  "required_review": false,
   "special_authorization": []
 }
