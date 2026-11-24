@@ -26,7 +26,7 @@
       "version": "1.0.0",
       "tag": "specification-authoring-v1.0.0",
       "path": "skills/specification-authoring/SKILL.md",
-      "status": "candidate",
+      "status": "published",
       "canonical_source": {
         "repository": "robe-land/robe-engineering",
         "revision": "ee1b3ba4a88f97c11cd4ff0c4d01a66019465b5e",
