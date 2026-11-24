@@ -1,0 +1,24 @@
+{
+  "resources": [
+    {
+      "id": "portable-adr-generator",
+      "type": "agent",
+      "version": "1.0.0",
+      "tag": "portable-adr-generator-v1.0.0",
+      "path": "agents/portable-adr-generator.agent.md",
+      "status": "published",
+      "canonical_source": {
+        "repository": "robe-land/robe-engineering",
+        "revision": "490aa6bfb133ef0eb51396eccad5f75df47d81df",
+        "path": "agents/adopted/portable-adr-generator.agent.md",
+        "blob": "8380a9db74666fe777e47c46654e849c9354d55b"
+      },
+      "license": {
+        "spdx_id": "MIT",
+        "copyright": "GitHub, Inc.",
+        "notice_path": "agents/ADR-GENERATOR-LICENSE",
+        "upstream": "https://github.com/github/awesome-copilot/blob/10622d5ce2a34784a94846b9a49ef712ce0c4b33/agents/adr-generator.agent.md"
+      }
+    }
+  ]
+}
