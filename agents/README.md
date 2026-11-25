@@ -2,7 +2,7 @@
 
 This directory contains approved GitHub Copilot agents published for contributors to the robe-land organization.
 
-Canonical agent definitions, original candidate sources, evaluation evidence, and adoption status are maintained in robe-engineering.
+Canonical agent definitions, original candidate sources, evaluation evidence, and adoption status are maintained in robe-engineer.
 
 Only adopted agents may be published here. Published definitions are distribution artifacts, not independently maintained implementations.
 
