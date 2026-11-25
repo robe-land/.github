@@ -8,7 +8,7 @@
       "path": "agents/portable-adr-generator.agent.md",
       "status": "published",
       "canonical_source": {
-        "repository": "robe-land/robe-engineering",
+        "repository": "robe-land/robe-engineer",
         "revision": "490aa6bfb133ef0eb51396eccad5f75df47d81df",
         "path": "agents/adopted/portable-adr-generator.agent.md",
         "blob": "8380a9db74666fe777e47c46654e849c9354d55b"
@@ -28,7 +28,7 @@
       "path": "skills/specification-authoring/SKILL.md",
       "status": "published",
       "canonical_source": {
-        "repository": "robe-land/robe-engineering",
+        "repository": "robe-land/robe-engineer",
         "revision": "ee1b3ba4a88f97c11cd4ff0c4d01a66019465b5e",
         "path": "skills/adopted/specification-authoring/SKILL.md",
         "blob": "97a4da3643ae06813c84708fd150ec35191b5bcc",
